@@ -11,3 +11,5 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 Now I have added a small piece of text for testing whether this actually works as expected.
 I'm trying to make it work.
+
+This line is added from ubuntu local in sublime text 3 using git command!
