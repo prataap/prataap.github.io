@@ -1,11 +1,7 @@
 ---
 layout: post
-title: Test Documentation
+title: Facebook realtime callback endpoint
 ---
-
-Facebook realtime callback endpoint
-
-# Facebook realtime callback endpoint
 
 Facebook will call this endpoint when there is a change in user's feed/likes or if there is a new message for DeCirc page
 
