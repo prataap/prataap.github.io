@@ -13,11 +13,11 @@ Whether you're building apps or experiences to share weather updates, confirm re
 
 #### So Let's get started!  
 Let's look at the various chabot backend services to build our chatbot.  
-Some of the available API services that can be used are as follows:
-- [wit.ai](https://wit.ai/home)
-- [Nuance Mix](https://developer.nuance.com)
-- [SiriKit](https://developer.apple.com/sirikit/)
-- [api.ai](https://api.ai/)
+Some of the available API services that can be used are as follows:  
+- [wit.ai](https://wit.ai/home)  
+- [Nuance Mix](https://developer.nuance.com)  
+- [SiriKit](https://developer.apple.com/sirikit/)  
+- [api.ai](https://api.ai/)  
 
 
 
