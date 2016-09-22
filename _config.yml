@@ -21,12 +21,12 @@ avatar: https://raw.githubusercontent.com/prataap/resources/master/blogimages/my
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: prataap.one@gmail.com
+  facebook: prataapms
   flickr:
   github: prataapms/
   instagram:
-  linkedin:
+  linkedin: prataapms
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: prataapms
@@ -44,7 +44,7 @@ google_analytics: UA-84556392-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://prataap.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
