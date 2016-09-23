@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Everything about Facebook Messenger ChatBot
+published: true
 ---
 
 Facebook announced Bots for Messenger in April, 2016 making it possible for developers to connect with the more than 900 million people around the world who use Messenger every month.  
@@ -19,7 +20,7 @@ Some of the available API services that can be used are as follows:
 - [SiriKit](https://developer.apple.com/sirikit/)  
 - [api.ai](https://api.ai/)  
 
-
+Hey! Test
 
 
 
