@@ -22,24 +22,24 @@ Some of the available API services that can be used are as follows:
 
 ### BASIC STEPS  
 
--Create  account in wit.ai using github credentials(https://wit.ai/home)
--Create chat conversions that you would like to create a bot for.
--Create a new project in wit.ai (https://wit.ai/apps/new)
--Now create stories in in this project in wit.ai along with it's correponding entities list
--Check out this(https://github.com/wit-ai/pywit) example in github using python
--Check docs for wit.ai here(https://wit.ai/docs)
--Get the Server Access Token for this wit.ai project from settings
--Access developers.facebook.com
--create a page for which you want to deploy your bot
--Create a facebook app for the page you created
--generate the page token id and page id for the page
--Now create a backend for facebook messenger using python
--For Facebook to be able to connect to our backend, we need to verify our callback endpoint using webhooks in developers.facebook.com
--So, go to https://developers.facebook.com/docs/messenger-platform/quickstart and follow the guide
--Now create a POST function in backend which can handle the calls from facebook which receives any message a user sends in through your page chat.
--This post function should pass the message and user id to another function which can process the data and send it to wit.ai to decide the actions it needs to perform
--Follow this link (https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) to create a Flask application
--Follow this (https://gethttpsforfree.com/) to install HTPPS certificates in your server
+- Create  account in wit.ai using github credentials(https://wit.ai/home)
+- Create chat conversions that you would like to create a bot for.
+- Create a new project in wit.ai (https://wit.ai/apps/new)
+- Now create stories in in this project in wit.ai along with it's correponding entities list
+- Check out this(https://github.com/wit-ai/pywit) example in github using python
+- Check docs for wit.ai here(https://wit.ai/docs)
+- Get the Server Access Token for this wit.ai project from settings
+- Access developers.facebook.com
+- create a page for which you want to deploy your bot
+- Create a facebook app for the page you created
+- generate the page token id and page id for the page
+- Now create a backend for facebook messenger using python
+- For Facebook to be able to connect to our backend, we need to verify our callback endpoint using webhooks in developers.facebook.com
+- So, go to https://developers.facebook.com/docs/messenger-platform/quickstart and follow the guide
+- Now create a POST function in backend which can handle the calls from facebook which receives any message a user sends in through your page chat.
+- This post function should pass the message and user id to another function which can process the data and send it to wit.ai to decide the actions it needs to perform
+- Follow this link (https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) to create a Flask application
+- Follow this (https://gethttpsforfree.com/) to install HTPPS certificates in your server
 
 
 
