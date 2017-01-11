@@ -4,6 +4,7 @@ title: Everything about Facebook Messenger ChatBot
 published: true
 ---
 
+This Documentation is still not complete. Thank you for visiting my blog. Please check back after a few days.
 Facebook announced Bots for Messenger in April, 2016 making it possible for developers to connect with the more than 900 million people around the world who use Messenger every month.  
   
   
@@ -40,13 +41,3 @@ Some of the available API services that can be used are as follows:
 - This post function should pass the message and user id to another function which can process the data and send it to wit.ai to decide the actions it needs to perform
 - Follow this link (https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) to create a Flask application
 - Follow this (https://gethttpsforfree.com/) to install HTPPS certificates in your server
-
-
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-Hello
