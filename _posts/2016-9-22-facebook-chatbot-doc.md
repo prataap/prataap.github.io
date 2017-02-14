@@ -8,7 +8,7 @@ This Documentation is still not complete. Thank you for visiting my blog. Please
 Facebook announced Bots for Messenger in April, 2016 making it possible for developers to connect with the more than 900 million people around the world who use Messenger every month.    
   
   
-### What is Bots for Messenger?  
+#### What are Bots for Messenger?  
 Bots for Messenger are for anyone who's trying to reach people on mobile - no matter how big or small your company or idea is, or what problem you're trying to solve.   
 Whether you're building apps or experiences to share weather updates, confirm reservations at a hotel, or send receipts from a recent purchase, bots make it possible for you to be more personal, more proactive, and more streamlined in the way that you interact with people.
   
