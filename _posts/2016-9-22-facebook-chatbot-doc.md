@@ -5,7 +5,7 @@ published: true
 ---
 
 This Documentation is still not complete. Thank you for visiting my blog. Please check back after a few days.  
-Facebook announced Bots for Messenger in April, 2016 making it possible for developers to connect with the more than 900 million people around the world who use Messenger every month.  
+Facebook announced Bots for Messenger in April, 2016 making it possible for developers to connect with the more than 900 million people around the world who use Messenger every month.    
   
   
 ### What is Bots for Messenger?  
