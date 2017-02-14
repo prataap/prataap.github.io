@@ -21,14 +21,14 @@ avatar: https://raw.githubusercontent.com/prataap/resources/master/blogimages/my
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: prataap.one@gmail.com
+  email: git.prataapms@mailhero.io
   facebook: prataapms
   flickr:
   github: prataapms/
   instagram:
   linkedin: prataapms
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: prataapms # just type anything here for a working RSS icon
   twitter: prataapms
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
