@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 Twitter handle: @prataapms 
-**Mail to:**[git.prataapms@mailhero.io](mailto:git.prataapms@mailhero.io)
+**Mail to:**[github.prataapms@mailhero.io](mailto:github.prataapms@mailhero.io)
