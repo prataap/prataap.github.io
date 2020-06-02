@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello World! Great to see you here. I will be adding documentations and progress on things that I explore here.
+Hello World! Great to see you here. 
+
+I will be adding documentations and progress on things that I explore here.
 
 I'm a passionate software developer who likes to explore and learn latest technologies and use them to create something innovative and useful.
 
