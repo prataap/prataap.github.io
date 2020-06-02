@@ -15,4 +15,5 @@ You can mail me to know more about me! Also subscribe to my RSS feed to get noti
 ### Contact information
 
 **Twitter handle:** [@prataapms](https://twitter.com/prataapms)
+
 **Mail to:** [github.prataapms@mailhero.io](mailto:ms.prataap@gmail.com)
