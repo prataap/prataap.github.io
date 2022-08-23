@@ -4,29 +4,29 @@ title: Linux packages for developers
 ---
 
 # Index
-Software | Links to help site
-| ------------ | ------------- |
-| [Redshift](#redshift) | [link](https://encrypted.google.com/) |
-| [Github](#git) | [link](https://encrypted.google.com/) |
-| [ZSh](#zsh) | [link](https://encrypted.google.com/) |
-| [htop](#htop) | [link](https://encrypted.google.com/) |
-| [iPython](#ipython) )  | [link](https://encrypted.google.com/) |
-| Nemo File Explorer | [link](https://encrypted.google.com/) |
-| Terminator | [link](https://encrypted.google.com/) |
-| Pulse Audio | [link](https://encrypted.google.com/) |
-| Pycharm | [link](https://encrypted.google.com/) |
-| Sublime Text 3 | [link](https://encrypted.google.com/) |
-| Spring STS | [link](https://encrypted.google.com/) |
-| Eclipse | [link](https://encrypted.google.com/) |
-| Anaconda | [link](https://encrypted.google.com/) |
-| Geany | [link](https://encrypted.google.com/) |
-| MongoDB | [link](https://encrypted.google.com/) |
-| Redis | [link](https://encrypted.google.com/) |
-| Mysql | [link](https://encrypted.google.com/) |
-| Elasticsearch | [link](https://encrypted.google.com/) |
-| Tensorflow | [link](https://encrypted.google.com/) |
-| Google Chrome | [link](https://encrypted.google.com/) |
-| Java | [link](https://encrypted.google.com/) |
+Software | Link |
+| ------------ | ------------- | 
+| [Redshift](#redshift) | [link](https://encrypted.google.com/) | 
+| [Github](#git) | [link](https://encrypted.google.com/) | 
+| [ZSh](#zsh) | [link](https://encrypted.google.com/) | 
+| [htop](#htop) | [link](https://encrypted.google.com/) | 
+| [iPython](#ipython) )  | [link](https://encrypted.google.com/) | 
+| Nemo File Explorer | [link](https://encrypted.google.com/) | 
+| Terminator | [link](https://encrypted.google.com/) | 
+| Pulse Audio | [link](https://encrypted.google.com/) | 
+| Pycharm | [link](https://encrypted.google.com/) | 
+| Sublime Text 3 | [link](https://encrypted.google.com/) | 
+| Spring STS | [link](https://encrypted.google.com/) | 
+| Eclipse | [link](https://encrypted.google.com/) | 
+| Anaconda | [link](https://encrypted.google.com/) | 
+| Geany | [link](https://encrypted.google.com/) | 
+| MongoDB | [link](https://encrypted.google.com/) | 
+| Redis | [link](https://encrypted.google.com/) | 
+| Mysql | [link](https://encrypted.google.com/) | 
+| Elasticsearch | [link](https://encrypted.google.com/) | 
+| Tensorflow | [link](https://encrypted.google.com/) | 
+| Google Chrome | [link](https://encrypted.google.com/) | 
+| Java | [link](https://encrypted.google.com/) | 
 
 
 <a name="redshift"></a>
