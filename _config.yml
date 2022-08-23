@@ -91,7 +91,8 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minimal
 plugins:
 - jekyll-remote-theme
+# remote_theme: pages-themes/minimal@v0.2.0
 # theme: jekyll-theme-time-machine
