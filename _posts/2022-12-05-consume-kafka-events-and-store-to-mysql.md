@@ -1,4 +1,4 @@
-# Java program that consumes orders as events from Kafka and stores them in a MySQL database
+### Java program that consumes orders as events from Kafka and stores them in a MySQL database
 
 Here is an example of a Java program that consumes order-related events from Kafka and stores them in a MySQL database:
 
